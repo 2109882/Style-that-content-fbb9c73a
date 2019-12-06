@@ -1,0 +1,29 @@
+.navbar { 
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	border: 1px solid #FF4500;
+	background-color: #FF4500;
+
+}
+
+.content { 
+
+	text-align: center;
+	background: #F5F5DC;
+	border: 1px solid #F5F5DC;
+	justify-content: center;
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+
+	 }
+.content>h1 {
+	width: 100%;
+}
+
+.news {
+	
+	width: 33%;
+
+}
